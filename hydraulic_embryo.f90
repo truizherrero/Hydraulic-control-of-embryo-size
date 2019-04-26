@@ -19,7 +19,7 @@ integer::i,nwrite
 
 
 
-open(1,file='parameter2.dat')
+open(1,file='parameter.dat')
 
 read(1,*)Jv,Jc,EE,sigma2
 
